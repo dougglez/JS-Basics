@@ -7,7 +7,7 @@ var name = 'Tyler';
   //Code Here
 
 //////////////////PROBLEM 2////////////////////
-
+// ive made some changes
 
 //Create a function called getName that uses prompt() to prompt the user for their name, then returns the name.
 
